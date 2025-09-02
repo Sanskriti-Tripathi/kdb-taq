@@ -1,3 +1,5 @@
+Project Overview
+
 # kdb+taq
 
 kdb-taq is a tool for processing and analyzing historical NYSE Daily TAQ (Trade and Quote) data using kdb+/q. This repository contains scripts and utilities to parse, load, and query TAQ datasets efficiently.
@@ -133,3 +135,6 @@ which would expose your application to various risks:
 ### Recommendation:
 Instead, download code and subject it to the version control and regression testing
 you use for your application.
+
+
+
